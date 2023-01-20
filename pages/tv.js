@@ -1,4 +1,4 @@
-import styles from '../styles/tv.js'
+import styles from '../styles/tv.module.css'
 
 export default function Home () {
   return (

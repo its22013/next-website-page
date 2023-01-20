@@ -6,6 +6,11 @@ export default function Nav () {
       <ul>
         <li>
           <Link legacyBehavior href='/'>
+            <a>Home</a>
+          </Link>
+        </li>
+        <li>
+          <Link legacyBehavior href='tv'>
             <a>Tv</a>
           </Link>
         </li>
